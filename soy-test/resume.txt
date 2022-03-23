@@ -1,0 +1,77 @@
+SOYEON JANG
+STATISTICS `24, UNIVERSITY OF WATERLOO
+SKILLS
+LANGUAGES
+Python
+
+SQL
+
+R
+
+
+Bash
+
+DATABASES
+BigQuery
+
+MongoDB
+
+PostgreSQL
+OTHER
+Git
+
+Airflow
+
+GCP
+
+Terraform
+
++1 (519) 716 - 2246
+soyeonjangg@gmail.com
+in/soyeon-j
+
+WORK EXPERIENCE
+Software Engineer - Data Engineering at League Inc., Toronto
+May 2021 - August 2021
+Enabled 150+ enterprises with spending insights by developing automated ETL/ELT,
+leveraging GCP resources, Apache Airflow, SQL, and Python
+Created fact and dimension tables by applying Kimball’s Data Modelling Principles on
+large datasets
+Prevented data alteration by establishing table schemas and access control over
+BigQuery datasets in Terraform
+Minimized operational gaps by presenting data pipeline architecture to other teams.
+Software Developer at Teranet Inc., Toronto
+September 2020 - December 2020
+Simplified dashboard UI to provide observability on review for data purge by
+implementing column sorting and selection functionalities using ASP.NET
+Developed SQL scripts for decommissioning unused tables and stored procedures and
+created warning messages for production alerts
+Improved communication, teamwork, time management and self-organization skills by
+actively participating in all aspects of Agile-Scrum.
+
+PROJECTS
+Home Library Management System
+
+August 2021 - Present
+
+Developed a home library management system for a family member of 5 in Java using
+Swing components and MongoDB to store book information.
+
+Calbot - Tech+ UW
+March 2021
+Built a Discord bot in Python to create, modify, delete and view events using custom
+Discord commands to inform and engage 250+ users in the Tech+ Discord server
+Integrated custom bot commands with the Google Calendar API to improve usability
+and increase convenience for the Tech+ executive team.
+
+EXTRA-CURRICULAR ACTIVITIES
+Production Manager, Participant Experience Director at TEDxUW
+February 2021 - Present
+Led Participant Experience team of 3 in securing logistics, creating seamless virtual
+conference experience and overseeing the operations details for 100+ participants.
+
+EDUCATION
+Bachelor of Mathematics in Honours Co-op Statistics
+Sepember 2019 - May 2024
+
+
